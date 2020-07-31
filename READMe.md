@@ -1,4 +1,4 @@
-## Welcome to my code drawer
+# Tshepo L. Molane | tlmolane
 
 ## What I am about  
  - 👨‍💻 &nbsp; I'm on a journey in technology. I am interested in the application of artifical intelligence, cryptography and cloud computing. I code primarily in python but I am quite flexible in working and learning new languages. My goal is to learn and innovate solutions for variety of problems that are both personally interesting and relevant for my vocational interests. 
