@@ -20,7 +20,7 @@
 
 
 ## Contact me  
-- Twitter: https://twitter.com/katfukui
+- Twitter: https://twitter.com/tlmolane
 - Instagram: https://www.instagram.com/zeefu_apx/?hl=en
 - blog: https://rootedtechsa.wordpress.com/contact/ 
 - personal email: tlmolane@protonmail.com
