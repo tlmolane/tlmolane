@@ -19,7 +19,7 @@
  - 🚀 &nbsp; This is where you will find my projects written in Python, Tensorflow and Java. This git is new so more work will be available for use and review! My current project is Volt. See my public repositories. 
 
 
-## Contact me  
+## Connnect with me  
 - Twitter: https://twitter.com/tlmolane
 - Instagram: https://www.instagram.com/zeefu_apx/?hl=en
 - blog: https://rootedtechsa.wordpress.com/contact/ 
